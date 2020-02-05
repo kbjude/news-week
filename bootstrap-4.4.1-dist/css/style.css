@@ -1,4 +1,23 @@
-article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
-    display: block;
-    
-  }
+.subscribe {
+    background-color: white;
+    padding: 10px 15px;
+}
+
+.subscribe:hover {
+    text-decoration: none;
+}
+
+.top-header {
+
+}
+
+.custom-container {
+    width:100%;
+    margin: 0px 100px;
+}
+
+.heading1 {
+    font-size: 22px;
+    line-height: 24px;
+    font-weight: bold;
+}
