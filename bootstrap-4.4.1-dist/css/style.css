@@ -21,3 +21,9 @@
     line-height: 24px;
     font-weight: bold;
 }
+
+.travel {
+    background-color: slategrey;
+    padding: 2px 2px;
+    width: 65px;
+}
