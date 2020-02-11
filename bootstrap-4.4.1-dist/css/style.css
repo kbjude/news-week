@@ -11,10 +11,20 @@
 
 }
 
+#Layer_1 {
+    width: 400px;
+    fill: white;
+    vertical-align: bottom;
+}
+
 /* .custom-container {
     width:100%;
     margin: 0px 100px;
 } */
+
+.news-week-logo {
+    color: white
+}
 
 .heading1 {
     font-size: 15px;
