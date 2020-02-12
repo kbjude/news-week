@@ -7,14 +7,14 @@
     text-decoration: none;
 }
 
-.top-header {
-
-}
-
 #Layer_1 {
     width: 400px;
     fill: white;
     vertical-align: bottom;
+}
+
+.navbar-nav li a:hover {
+    color: red;
 }
 
 /* .custom-container {
