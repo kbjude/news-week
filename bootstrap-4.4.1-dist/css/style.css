@@ -26,10 +26,36 @@
     color: white
 }
 
+.featured-stories > .row a: {
+
+}
+
+.feature-img {
+    position: relative;
+}
+
+.im-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    display: inline-block;
+    font-size: 20px;
+}
+
 .heading1 {
     font-size: 15px;
     line-height: 24px;
     font-weight: bold;
+    text-decoration: none;
+}
+
+.container-fluid .top-heading:hover {
+    text-decoration: none;
+}
+
+.opinion-item .heading1:hover {
+    text-decoration: none;
+    color: red;
 }
 
 .travel {
