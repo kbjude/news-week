@@ -40,17 +40,22 @@
     left: 0;
     display: inline-block;
     font-size: 20px;
+    margin-bottom: auto;
 }
 
 .heading1 {
     font-size: 15px;
     line-height: 24px;
     font-weight: bold;
+}
+
+.container-fluid .top-heading:hover, 
+.feature-img a:hover {
     text-decoration: none;
 }
 
-.container-fluid .top-heading:hover {
-    text-decoration: none;
+.content a:hover {
+    text-decoration-color: red;
 }
 
 .opinion-item .heading1:hover {
