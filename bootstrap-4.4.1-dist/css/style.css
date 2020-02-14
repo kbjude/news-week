@@ -55,8 +55,10 @@
 }
 
 .container-fluid .top-heading:hover, 
-.feature-img a:hover {
-    text-decoration: none;
+.feature-img a:hover,
+.heading1 a:hover,
+.container-fluid .corona:hover {
+    text-decoration-color: red;
 }
 
 .content a:hover {
