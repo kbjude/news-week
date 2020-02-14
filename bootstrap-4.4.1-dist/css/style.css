@@ -57,10 +57,7 @@
 .container-fluid .top-heading:hover, 
 .feature-img a:hover,
 .heading1 a:hover,
-.container-fluid .corona:hover {
-    text-decoration-color: red;
-}
-
+.container-fluid .corona:hover,
 .content a:hover {
     text-decoration-color: red;
 }
@@ -68,6 +65,10 @@
 .opinion-item .heading1:hover {
     text-decoration: none;
     color: red;
+}
+
+.culture-img a:hover {
+    text-decoration: none;
 }
 
 .travel {
