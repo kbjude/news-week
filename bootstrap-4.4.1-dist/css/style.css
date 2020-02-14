@@ -76,3 +76,8 @@
     padding: 2px 2px;
     width: 65px;
 }
+.travel:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
