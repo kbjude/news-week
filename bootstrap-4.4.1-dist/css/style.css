@@ -107,3 +107,8 @@
     text-decoration: none;
     color: red;
 }
+
+.footer-items {
+    font-size: 12px;
+     color: gray;
+}
