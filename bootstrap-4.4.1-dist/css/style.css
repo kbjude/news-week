@@ -98,6 +98,6 @@
     text-decoration: none;
 }
 
-.content1 .me:hover {
+.description a:hover{
     text-decoration-color: red;
 }
