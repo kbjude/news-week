@@ -31,10 +31,6 @@
     color: white
 }
 
-.featured-stories > .row a: {
-
-}
-
 .feature-img {
     position: relative;
 }
@@ -61,7 +57,7 @@
     position: absolute;
     left: 15px;
     bottom: 0;
-    margin-bottom: 80px;
+    margin-bottom:55px;
 }
 
 .heading1 {
@@ -100,4 +96,8 @@
 
 .caption a:hover {
     text-decoration: none;
+}
+
+.content1 .me:hover {
+    text-decoration-color: red;
 }
