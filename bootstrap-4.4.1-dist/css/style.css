@@ -127,3 +127,8 @@
     fill: red;
     width: 200px;
 }
+
+.footer-title {
+    position: relative;
+    margin-top: -20px;
+}
