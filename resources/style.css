@@ -1,0 +1,129 @@
+/* .subscribe {
+    background-color: white;
+    padding: 10px 15px;
+} */
+
+.subscribe:hover {
+    text-decoration: none;
+}
+
+.nav-link {
+    font-weight: bold;
+    color: black;
+}
+
+#Layer_1 {
+    width: 400px;
+    fill: white;
+    vertical-align: bottom;
+}
+
+.navbar-nav li a:hover {
+    color: red;
+}
+
+/* .custom-container {
+    width:100%;
+    margin: 0px 100px;
+} */
+
+.news-week-logo {
+    color: white
+}
+
+.feature-img {
+    position: relative;
+}
+
+.im-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    display: inline-block;
+    font-size: 20px;
+    margin-bottom: auto;
+}
+
+.caption {
+    display: inline-block;
+    position: absolute;
+    left: 15px;
+    bottom: 0;
+    margin-bottom: 207px;
+}
+
+.featured {
+    display: inline-block;
+    position: absolute;
+    left: 15px;
+    bottom: 0;
+    margin-bottom:55px;
+}
+
+.heading1 {
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: bold;
+}
+
+.container-fluid .top-heading:hover, 
+.feature-img a:hover,
+.heading1 a:hover,
+.container-fluid .corona:hover,
+.content a:hover {
+    text-decoration-color: red;
+}
+
+.opinion-item .heading1:hover {
+    text-decoration: none;
+    color: red;
+}
+
+.culture-img a:hover {
+    text-decoration: none;
+}
+
+.travel {
+    background-color: slategrey;
+    padding: 2px 2px;
+    width: 65px;
+}
+
+.travel:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.caption a:hover {
+    text-decoration: none;
+}
+
+.description a:hover{
+    text-decoration-color: red;
+}
+
+.img-desc a:hover {
+    text-decoration: none;
+    color: red;
+}
+
+.footer-li a:any-link {
+    color: gray;
+}
+
+.footer-items {
+    font-size: 12px;
+     color: gray;
+}
+
+
+.footer-li a:hover {
+    color: rgb(77, 75, 75);
+    text-decoration: none;
+}
+
+#footer-id {
+    fill: red;
+    width: 200px;
+}
