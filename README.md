@@ -28,17 +28,11 @@ This project is meant to help the candidadate to be introduced to bootstrap and 
 
 - Github: [@kbjude](https://github.com/kbjude)
 
-
-👤 Paul Omondi
-
-- Github: [@paulo-techie](https://github.com/paulo-techie)
-- Linkedin: [paul-o-43051a31](https://www.linkedin.com/in/paul-o-43051a31)
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/paulo-techie/The-Next-Web/issues).
+Feel free to check the [issues page](https://github.com/kbjude/news-week/issues).
 
 ## Show your support
 
