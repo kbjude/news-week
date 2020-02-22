@@ -12,7 +12,7 @@ This project is meant to help the candidadate to be introduced to bootstrap and 
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/paulo-techie/The-Next-Web/c8358ec0ffe3117a92e5b1f7704b78f8ac7cc9e5/index.html)
+[Live Demo Link](https://raw.githack.com/kbjude/news-week/ft-index/index.html)
 
 
 ###  Prerequisites
