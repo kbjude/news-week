@@ -1,7 +1,11 @@
-/* .subscribe {
-    background-color: white;
-    padding: 10px 15px;
-} */
+body {
+    max-width: 1310px; 
+    margin: auto !important; 
+}
+
+.opionion {
+    padding: 0 !important;
+}
 
 .subscribe:hover {
     text-decoration: none;
@@ -21,11 +25,6 @@
 .navbar-nav li a:hover {
     color: red;
 }
-
-/* .custom-container {
-    width:100%;
-    margin: 0px 100px;
-} */
 
 .news-week-logo {
     color: white
@@ -50,6 +49,11 @@
     left: 15px;
     bottom: 0;
     margin-bottom: 207px;
+}
+
+.aside-sticky {
+    position: sticky;
+    top: 0;
 }
 
 .featured {
