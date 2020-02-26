@@ -46,9 +46,7 @@ body {
 .caption {
     display: inline-block;
     position: absolute;
-    left: 15px;
     bottom: 0;
-    margin-bottom: 207px;
 }
 
 .aside-sticky {
@@ -59,9 +57,7 @@ body {
 .featured {
     display: inline-block;
     position: absolute;
-    left: 15px;
     bottom: 0;
-    margin-bottom:55px;
 }
 
 .heading1 {
