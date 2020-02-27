@@ -138,8 +138,9 @@ body {
     color: gray;
 }
 
-.footer-items {
-    font-size: 12px;
+.footer-items,
+.footer-li {
+    font-size: 14px;
      color: gray;
 }
 
