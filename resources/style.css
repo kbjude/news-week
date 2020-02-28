@@ -1,4 +1,4 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 990px) {
     .footer-large-scrn {
         display: none;
     }
@@ -22,7 +22,7 @@
     }
   }
 
-  @media only screen and (min-width: 600px) {
+  @media only screen and (min-width: 990px) {
     .footer-small-scrn {
         display: none;
     }
@@ -88,6 +88,9 @@ body {
     display: inline-block;
     font-size: 20px;
     margin-bottom: auto;
+}
+.lates-n-img {
+    width: 30%;
 }
 
 .caption {
