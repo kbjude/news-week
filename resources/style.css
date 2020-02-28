@@ -22,6 +22,27 @@
     }
   }
 
+  @media only screen and (min-width: 600px) {
+    .footer-small-scrn {
+        display: none;
+    }
+    .footer-title {
+        font-size: 20px;
+    }
+    .footer-img {
+        width: 40%;
+    }
+    .subscribe-bottom {
+        text-align: center;
+    }
+    .trade-mark {
+        font-size: 13px;
+    }
+    .icons {
+        font-size: 23px;
+    }
+  }
+
 
 
 body {
