@@ -183,3 +183,8 @@ body {
     width: 29px;
     height: 29px;
 }
+
+.stories-hr {
+    border-top: 1px solid rgb(202, 200, 200);
+    padding: 8px 0;
+}
