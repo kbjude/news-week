@@ -174,7 +174,7 @@ body {
     text-decoration: none;
 }
 
-#footer-id {
+.footer-id {
     fill: red;
     width: 200px;
 }
